@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StarWarsMovies>
+    <Movie>
+        <Title>Star Wars: Episode IV - A New Hope</Title>
+        <ReleaseDate>1977-05-25</ReleaseDate>
+        <Director>George Lucas</Director>
+        <MainCharacters>
+            <Character>Luke Skywalker</Character>
+            <Character>Princess Leia</Character>
+            <Character>Han Solo</Character>
+            <Character>C-3PO</Character>
+            <Character>R2-D2</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: Episode V - The Empire Strikes Back</Title>
+        <ReleaseDate>1980-05-21</ReleaseDate>
+        <Director>Irvin Kershner</Director>
+        <MainCharacters>
+            <Character>Luke Skywalker</Character>
+            <Character>Princess Leia</Character>
+            <Character>Han Solo</Character>
+            <Character>C-3PO</Character>
+            <Character>R2-D2</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: Episode VI - Return of the Jedi</Title>
+        <ReleaseDate>1983-05-25</ReleaseDate>
+        <Director>Richard Marquand</Director>
+        <MainCharacters>
+            <Character>Luke Skywalker</Character>
+            <Character>Princess Leia</Character>
+            <Character>Han Solo</Character>
+            <Character>C-3PO</Character>
+            <Character>R2-D2</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: Episode I - The Phantom Menace</Title>
+        <ReleaseDate>1999-05-19</ReleaseDate>
+        <Director>George Lucas</Director>
+        <MainCharacters>
+            <Character>Qui-Gon Jinn</Character>
+            <Character>Obi-Wan Kenobi</Character>
+            <Character>Anakin Skywalker</Character>
+            <Character>Padmé Amidala</Character>
+            <Character>Jar Jar Binks</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: Episode II - Attack of the Clones</Title>
+        <ReleaseDate>2002-05-16</ReleaseDate>
+        <Director>George Lucas</Director>
+        <MainCharacters>
+            <Character>Anakin Skywalker</Character>
+            <Character>Padmé Amidala</Character>
+            <Character>Obi-Wan Kenobi</Character>
+            <Character>Yoda</Character>
+            <Character>Count Dooku</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: Episode III - Revenge of the Sith</Title>
+        <ReleaseDate>2005-05-19</ReleaseDate>
+        <Director>George Lucas</Director>
+        <MainCharacters>
+            <Character>Anakin Skywalker</Character>
+            <Character>Padmé Amidala</Character>
+            <Character>Obi-Wan Kenobi</Character>
+            <Character>Yoda</Character>
+            <Character>Darth Sidious</Character>
+            <Character>Darth Vader</Character>
+            <Character>General Grievous</Character>
+            <Character>Mace Windu</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: The Force Awakens</Title>
+        <ReleaseDate>2015-12-18</ReleaseDate>
+        <Director>J.J. Abrams</Director>
+        <MainCharacters>
+            <Character>Rey</Character>
+            <Character>Finn</Character>
+            <Character>Poe Dameron</Character>
+            <Character>Kylo Ren</Character>
+            <Character>Han Solo</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: The Last Jedi</Title>
+        <ReleaseDate>2017-12-15</ReleaseDate>
+        <Director>Rian Johnson</Director>
+        <MainCharacters>
+            <Character>Rey</Character>
+            <Character>Finn</Character>
+            <Character>Poe Dameron</Character>
+            <Character>Kylo Ren</Character>
+            <Character>Luke Skywalker</Character>
+        </MainCharacters>
+    </Movie>
+    <Movie>
+        <Title>Star Wars: The Rise of Skywalker</Title>
+        <ReleaseDate>2019-12-20</ReleaseDate>
+        <Director>J.J. Abrams</Director>
+        <MainCharacters>
+            <Character>Rey</Character>
+            <Character>Finn</Character>
+            <Character>Poe Dameron</Character>
+            <Character>Kylo Ren</Character>
+            <Character>Lando Calrissian</Character>
+        </MainCharacters>
+    </Movie>
+</StarWarsMovies>
+
